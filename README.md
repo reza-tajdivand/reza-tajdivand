@@ -25,9 +25,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<h2>📞 &nbsp; Connct Me </h2>
+<h3>📞 &nbsp; Connct Me </h3>
 <p align="left">
   <a href="https://t.me/reza_tajdivand">
-    <img src="https://github.com/reza-tajdivand/reza-tajdivand/blob/main/icons8-telegram-48.png?raw=true" />
+    <img width="35px" height="35px" src="https://github.com/reza-tajdivand/reza-tajdivand/blob/main/icons8-telegram-48.png?raw=true" />
   </a>
 </p>
